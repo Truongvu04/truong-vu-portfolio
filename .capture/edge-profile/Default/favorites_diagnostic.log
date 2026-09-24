@@ -1,0 +1,18 @@
+2026-09-18 13:18:04.672: [INFO] CurrentProfilePath: E:\Portfolio\Portfolio_3D\.capture\edge-profile\Default
+2026-09-18 13:18:04.672: [INFO] Profiles total count: 1
+2026-09-18 13:18:04.673: [INFO] Profile: name=Profile 1 path=E:\Portfolio\Portfolio_3D\.capture\edge-profile\Default lastActive=2026-09-18T13:18:04.581Z
+2026-09-18 13:18:04.673: [INFO] LastUsedProfileDir: E:\Portfolio\Portfolio_3D\.capture\edge-profile\Default
+2026-09-18 13:18:04.673: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Portfolio\Portfolio_3D\.capture\edge-profile\Default lastActive=2026-09-18T13:18:04.581Z
+2026-09-18 13:18:04.673: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 13:18:04.673: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 13:18:04.673: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 13:18:04.673: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 13:18:04.678: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-18 13:18:05.562: [INFO] VisibilityChanged: 0
+2026-09-18 13:18:06.722: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-18 13:18:06.743: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-18 13:18:06.769: [INFO] Primary account changed.
+2026-09-18 13:18:06.769: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-09-18 13:18:06.789: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-18 13:18:06.791: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-18 13:18:23.459: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

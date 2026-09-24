@@ -1,0 +1,5 @@
+[18852:17820:0918/202257.996:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:241] No machine level policy manager exists.
+[20364:18476:0918/202258.340:ERROR:ui\gl\direct_composition_support.cc:255] GetGpuDriverOverlayInfo: Failed to retrieve video device
+[20364:18476:0918/202258.348:WARNING:ui\gl\direct_composition_support.cc:1245] QueryInterface to IDCompositionDevice4 failed: No such interface supported (0x80004002)
+[20152:19276:0918/202300.728:ERROR:net\socket\ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -183
+[18852:17820:0918/202302.969:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0

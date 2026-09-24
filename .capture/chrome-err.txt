@@ -1,0 +1,10 @@
+[17844:17652:0918/201850.347:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[17844:19904:0918/201902.016:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 11984: Access is denied. (0x5)
+[17844:14428:0918/201902.018:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 11984: Access is denied. (0x5)
+[17844:19904:0918/201902.096:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 16220: Access is denied. (0x5)
+[17844:14428:0918/201902.165:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 15820: Access is denied. (0x5)
+[17844:19904:0918/201902.230:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 2344: Access is denied. (0x5)
+[17844:14428:0918/201902.295:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 15480: Access is denied. (0x5)
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[17844:17652:0918/201920.230:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+912831 bytes written to file E:\Portfolio\Portfolio_3D\.capture\huong-home.png

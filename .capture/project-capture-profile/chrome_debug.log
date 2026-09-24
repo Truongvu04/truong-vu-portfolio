@@ -1,0 +1,17 @@
+[1636:7976:0918/202903.722:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:241] No machine level policy manager exists.
+[4152:18900:0918/202903.898:ERROR:ui\gl\direct_composition_support.cc:255] GetGpuDriverOverlayInfo: Failed to retrieve video device
+[4152:18900:0918/202904.018:WARNING:ui\gl\direct_composition_support.cc:1245] QueryInterface to IDCompositionDevice4 failed: No such interface supported (0x80004002)
+[1636:7976:0918/202908.643:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[1636:18036:0918/202908.843:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+[1636:7976:0918/202913.647:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[1636:7976:0918/202918.661:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[1636:18740:0918/202922.749:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 8028: Access is denied. (0x5)
+[1636:15548:0918/202922.751:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 8028: Access is denied. (0x5)
+[1636:7976:0918/202923.670:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[1636:18740:0918/202924.847:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 12904: Access is denied. (0x5)
+[1636:15548:0918/202924.947:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 18868: Access is denied. (0x5)
+[1636:18740:0918/202925.038:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 12736: Access is denied. (0x5)
+[1636:15548:0918/202925.125:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:75] Failed to open named pipe server process 17564: Access is denied. (0x5)
+[1636:7976:0918/202928.671:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[1636:7976:0918/202933.683:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[1636:7976:0918/202938.688:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
